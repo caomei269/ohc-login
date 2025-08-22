@@ -1,4 +1,4 @@
-# OHC登录系统 (OHC Login)
+# OHC Login
 
 为OHCraft服务器制作的登录验证系统。
 
